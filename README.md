@@ -3,7 +3,6 @@
 ### Hi there 👋, I'm Hasib
 I'm Hasib, an enthusiast who does web development, security research, and ML/DL development. Passionate to contribute to open-source projects and make cool products. I really enjoy learning languages and frameworks like Vue, React, and React Native, as well as work in Worpress. I also enjoy wireframing, UI, UX, and design in general.
 
-## Skills and Experinace
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
