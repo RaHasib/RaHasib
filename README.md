@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Hasib
+#### Design and Development
+![Design and Development](https://media-exp1.licdn.com/dms/image/C5616AQFdcNdHPstojw/profile-displaybackgroundimage-shrink_200_800/0/1631866781655?e=1637193600&v=beta&t=hIdj1xers6xIffnC6KP8qXDmVMGkmxrveNwzE4LWGsA)
 
-I'm Hasib, technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products. I really enjoy learning languages and frameworks like Vue, React and React Native, as well as work in Worpress. I also enjoy wireframing, ui, ux, and design in general. You can check out  my twitter at https://twitter.com/RaisulHasib  instagram at https://www.instagram.com/raisul_hasib/ linkedin at https://www.linkedin.com/in/raisul-amin-hasib-362413179/ .
+I'm Hasib, an enthusiast who does web development, security research, and ML/DL development. Passionate to contribute to open-source projects and make cool products. I really enjoy learning languages and frameworks like Vue, React, and React Native, as well as work in Worpress. I also enjoy wireframing, UI, UX, and design in general.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHasib)](https://github.com/anuraghazra/github-readme-stats)
+Skills: C / PYTHON / VUE JS / REACT / JS / HTML / CSS / SASS /
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
