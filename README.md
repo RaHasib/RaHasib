@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hasib
 #### Design and Development
-![Design and Development](https://media-exp1.licdn.com/dms/image/C5616AQFdcNdHPstojw/profile-displaybackgroundimage-shrink_200_800/0/1631866781655?e=1637193600&v=beta&t=hIdj1xers6xIffnC6KP8qXDmVMGkmxrveNwzE4LWGsA)
+![Design and Development](https://github.com/RaHasib/RaHasib/blob/main/kogo-with-code-1.jpg)
 
 I'm Hasib, an enthusiast who does web development, security research, and ML/DL development. Passionate to contribute to open-source projects and make cool products. I really enjoy learning languages and frameworks like Vue, React, and React Native, as well as work in Worpress. I also enjoy wireframing, UI, UX, and design in general.
 
