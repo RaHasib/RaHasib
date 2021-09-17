@@ -28,11 +28,7 @@ I'm Hasib, an enthusiast who does web development, security research, and ML/DL 
 
 <br/>
 
-### Contact with me 📝
-
-
-[<img align="left" alt="github" width="40px" src="https://github.com/RaHasib" />][github]
-[<img align="left" alt="LinkedIn" width="35px" src="https://www.linkedin.com/in/raisul-amin-hasib-362413179/" />][linkedin]
-[<img align="left" alt="Instagram" width="40px" src="https://www.instagram.com/raisul_hasib/" />][instagram]
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raisul-amin-hasib-362413179/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/RaHasib) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/RaisulHasib)
 
 
