@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/RaHasib/RaHasib/blob/main/Screenshot%202021-09-17%20163728.png)
 
 ### Hi there 👋, I'm Hasib
-I'm Hasib, an enthusiast who does web development, security research, and ML/DL development. Passionate to contribute to open-source projects and make cool products. I really enjoy learning languages and frameworks like Vue, React, and React Native, as well as work in Worpress. I also enjoy wireframing, UI, UX, and design in general.
+I'm Hasib, an enthusiast who does web development, security research, and ML/DL development. Passionate to contribute to open-source projects and make cool products. I really enjoy learning languages and frameworks like Vue, React, and React Native, as well as work in Wordpress. I also enjoy wireframing, UI, UX, and design in general.
 
 ### Languages and Tools 🛠 
 
