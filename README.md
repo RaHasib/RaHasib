@@ -1,7 +1,16 @@
 ![Design and Development](https://github.com/RaHasib/RaHasib/blob/main/Screenshot%202021-09-17%20163728.png)
 
 ### Hi there 👋, I'm Hasib
-I'm Hasib, an enthusiast who does web development, security research, and ML/DL development. Passionate to contribute to open-source projects and make cool products. I really enjoy learning languages and frameworks like Vue, React, and React Native, as well as work in Wordpress. I also enjoy wireframing, UI, UX, and design in general.
+I'm Hasib, a Junior Front-End Developer with a passion for web development, security research, and ML/DL. I started my journey in 2018 on [Udemy](https://www.udemy.com), and now, I enjoy working with JS, React, Typescript.
+
+## I'm learning...
+
+<!--start:learning-->
+- Rust
+- Next.js
+- Ruby On Rails
+<!--end:learning-->
+
 
 ### Languages and Tools 🛠 
 
@@ -26,6 +35,9 @@ I'm Hasib, an enthusiast who does web development, security research, and ML/DL 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+
+## Stats
+[![RaHasib GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHasib)]
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raisul-amin-hasib-362413179/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/RaHasib) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/RaisulHasib)
