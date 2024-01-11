@@ -4,16 +4,13 @@
 I'm Hasib, a Junior Front-End Developer with a passion for web development, security research, and ML/DL. I started my journey in 2018 on [Udemy](https://www.udemy.com), and now, I enjoy working with JS, React, Typescript.
 
 ## I'm learning...
-
 <!--start:learning-->
 - Rust
 - Next.js
 - Ruby On Rails
 <!--end:learning-->
 
-
 ### Languages and Tools 🛠 
-
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -37,7 +34,7 @@ I'm Hasib, a Junior Front-End Developer with a passion for web development, secu
 <br/>
 
 ## Stats
-[![RaHasib GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHasib)]
+![RaHasib GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHasib)
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raisul-amin-hasib-362413179/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/RaHasib) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/RaisulHasib)
