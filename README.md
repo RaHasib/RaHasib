@@ -3,12 +3,7 @@
 ### Hi there 👋, I'm Hasib
 I'm Hasib, a Junior Front-End Developer with a passion for web development, security research, and ML/DL. I started my journey in 2018 on [Udemy](https://www.udemy.com), and now, I enjoy working with JS, React, Typescript.
 
-## I'm learning...
-<!--start:learning-->
-- Rust
-- Next.js
-- Ruby On Rails
-<!--end:learning-->
+
 
 ### Languages and Tools 🛠 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
