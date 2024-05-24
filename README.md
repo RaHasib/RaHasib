@@ -32,6 +32,6 @@ I'm Hasib, a Junior Front-End Developer with a passion for web development, secu
 ![RaHasib GitHub stats](https://github-readme-stats.vercel.app/api?username=RaHasib)
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raisul-amin-hasib-362413179/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/RaHasib) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/RaisulHasib)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raisul-amin-hasib-362413179/)
 
 
